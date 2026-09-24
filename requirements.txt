@@ -1,0 +1,12 @@
+# Python 3.12 - Versionen entsprechen der Umgebung, mit der die Ergebnisse erzeugt wurden
+folktables==0.0.12
+pandas==3.0.3
+numpy==2.4.6
+scikit-learn==1.9.0
+xgboost==3.3.0
+shap==0.52.0
+fairlearn==0.14.0
+matplotlib==3.11.0
+scipy==1.18.0
+jupyterlab==4.6.1
+ipywidgets==8.1.8
